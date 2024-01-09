@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1204" centery="1002" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="-1" y="-1" z="6" spawntime="60" direction="2" />
+		<monster name="Archer shinobi" x="0" y="-1" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1192" centery="1008" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Archer shinobi" x="-1" y="1" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1209" centery="1010" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Archer shinobi" x="1" y="1" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1204" centery="1011" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Archer shinobi" x="-1" y="1" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1219" centery="1014" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1220" centery="1016" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1218" centery="1019" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1207" centery="1021" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1202" centery="1024" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1208" centery="1026" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1191" centery="1028" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+		<monster name="Archer shinobi" x="1" y="1" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1205" centery="1030" centerz="6" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="6" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1190" centery="993" centerz="7" radius="1">
+		<monster name="Trainer" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1200" centery="1005" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1209" centery="1005" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1213" centery="1009" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1196" centery="1011" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1222" centery="1011" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1213" centery="1015" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1198" centery="1016" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1187" centery="1019" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1212" centery="1020" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1223" centery="1021" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1194" centery="1023" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1217" centery="1026" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1194" centery="1033" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1214" centery="1034" centerz="7" radius="1">
+		<monster name="Archer shinobi" x="0" y="0" z="7" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1243" centery="984" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1236" centery="986" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1246" centery="988" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1232" centery="990" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1250" centery="990" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1230" centery="992" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1248" centery="994" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1225" centery="995" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1222" centery="997" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1245" centery="997" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1244" centery="1000" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1225" centery="1001" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1238" centery="1001" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1231" centery="1002" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1234" centery="1005" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1235" centery="1014" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1222" centery="1017" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1229" centery="1017" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1219" centery="1020" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+	<spawn centerx="1229" centery="1024" centerz="8" radius="1">
+		<monster name="Spider" x="0" y="0" z="8" spawntime="60" direction="2" />
+	</spawn>
+</spawns>

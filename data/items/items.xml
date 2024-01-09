@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+
+
+	<item id="1818" article="a" name="wooden door">
+	</item>
+	<item id="1821" article="a" name="wooden door">
+	</item>
+	<item id="1822" article="a" name="wooden door">
+	</item>
+	<item id="1823" article="a" name="wooden door">
+	</item>
+	<item id="1824" article="a" name="wooden door">
+	</item>
+
+	<item id="8832" article="a" name="yin yang amulet">
+		<attribute key="armor" value="2"/>
+		<attribute key="slotType" value="necklace"/>
+		<attribute key="absorbpercentsuiton" value="3"/>
+		<attribute key="healthgain" value="12"/>
+		<attribute key="healthticks" value="3000"/>
+		<attribute key="managain" value="20"/>
+		<attribute key="manaticks" value="5000"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8834" article="a" name="adventurer backpack">
+		<attribute key="slotType" value="backpack"/>
+		<attribute key="containersize" value="32"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8841" article="a" name="jounin legs">
+		<attribute key="armor" value="2"/>
+		<attribute key="slotType" value="legs"/>
+		<attribute key="absorbpercentfuuton" value="2"/>
+		<attribute key="managain" value="5000"/>
+		<attribute key="manaticks" value="2000"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="1786" article="a" name="wooden stairs">
+		<attribute key="floorchange" value="north"/>
+	</item>
+	
+	<item id="4369" article="a" name="wooden stairs">
+		<attribute key="floorchange" value="down"/>
+	</item>
+	
+	<item id="7962" article="a" name="blood">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+	</item>
+	
+	<item id="8840" article="a" name="katana">
+		<attribute key="attack" value="25"/>
+		<attribute key="defense" value="2"/>
+		<attribute key="weaponType" value="sword"/>
+		<attribute key="weight" value="3000"/>
+	</item>
+	
+	<item id="8828" article="a" name="jutsu book">
+		<attribute key="defense" value="3"/>
+		<attribute key="description" value="A book to review the jutsu of your profession."/>
+		<attribute key="weaponType" value="shield"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8845" article="a" name="orochimaru tshirt">
+		<attribute key="armor" value="6"/>
+		<attribute key="slotType" value="body"/>
+		<attribute key="absorbpercentkaton" value="2"/>
+		<attribute key="healthgain" value="10"/>
+		<attribute key="healthticks" value="2000"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8848" article="a" name="jounin glove">
+		<attribute key="attack" value="25"/>
+		<attribute key="defense" value="3"/>
+		<attribute key="weaponType" value="axe"/>
+		<attribute key="weight" value="3000"/>
+	</item>
+	
+	<item id="8850" article="a" name="jounin boots">
+		<attribute key="armor" value="4"/>
+		<attribute key="slotType" value="feet"/>
+		<attribute key="speed" value="15"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8851" article="a" name="glove forearm">
+		<attribute key="defense" value="30"/>
+		<attribute key="weaponType" value="shield"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+
+	<item id="8852" article="a" name="obito glasses">
+		<attribute key="armor" value="3"/>
+		<attribute key="slotType" value="head"/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8853" article="a" name="shuriken">
+		<attribute key="weaponType" value="distance"/>
+		<attribute key="shootType" value="shuriken"/>
+		<attribute key="maxhitchance" value="96"/>
+		<attribute key="range" value="4"/>
+		<attribute key="attack" value="65"/>
+		<attribute key="weight" value="200"/>
+	</item>
+	
+	<item id="8855" article="a" name="scythe">
+		<attribute key="description" value="An old tool for collecting cane and cutting."/>
+		<attribute key="weight" value="1500"/>
+	</item>
+	
+	<item id="8858" article="a" name="pick axe">
+		<attribute key="description" value="An old tool for collecting rocks and mines."/>
+		<attribute key="weight" value="4000"/>
+	</item>
+	
+	<item id="8859" article="a" name="shovel">
+		<attribute key="description" value="An old tool for collecting digging in strange places."/>
+		<attribute key="weight" value="2500"/>
+	</item>
+	
+	<item id="9914" article="a" name="dead bee">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="containersize" value="3"/>
+		<attribute key="weight" value="20000"/>
+	</item>
+	<item id="9915" article="a" name="dead turtle">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="containersize" value="8"/>
+		<attribute key="weight" value="30000"/>
+	</item>
+	<item id="9916" article="a" name="dead bear">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="containersize" value="8"/>
+		<attribute key="weight" value="30000"/>
+	</item>
+	<item id="9917" article="a" name="dead spider">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="containersize" value="8"/>
+		<attribute key="weight" value="30000"/>
+	</item>
+	<item id="9918" article="a" name="dead archer shinobi">
+		<attribute key="duration" value="70"/>
+		<attribute key="decayTo" value="0"/>
+		<attribute key="containersize" value="8"/>
+		<attribute key="weight" value="30000"/>
+	</item>
+</items>
